@@ -1,0 +1,9 @@
+{   
+    "type": "folder",
+    "name": "cmd",
+    "content": {
+        "type": "file",
+        "name": "main.go",
+        "content": ""
+    }
+}
