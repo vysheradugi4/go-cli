@@ -1,9 +1,21 @@
 {   
-    "type": "folder",
-    "name": "cmd",
-    "content": {
-        "type": "file",
-        "name": "main.go",
-        "content": ""
-    }
+    "root": [
+        {
+            "type": "folder",
+            "name": "cmd",
+            "content": [
+                {
+                    "type": "file",
+                    "name": "main.go",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "type": "file",
+            "name": ".gitignore",
+            "content": ""
+        }
+    ]
+    
 }
